@@ -27,3 +27,6 @@ hex_search-*.tar
 
 .elixir_ls/
 
+# the binary
+hex_search
+
